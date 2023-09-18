@@ -1,7 +1,6 @@
 ﻿using HarmonyLib;
-using InControl;
-using System.Linq;
-using UnboundLib;
+using Photon.Realtime;
+using RWF;
 using UnityEngine;
 
 namespace RoundWithBot.Pacthes.RWF
@@ -19,12 +18,6 @@ namespace RoundWithBot.Pacthes.RWF
             }
             if (__instance.currentPlayer.GetComponent<PlayerAPI>().enabled && !__instance.isReady)
             {
-                __instance.currentPlayer.data.playerVel.SetFieldValue("simulated", false);
-                if(__instance.currentPlayer.data.playerActions == null) {
-                    __instance.currentPlayer.data.playerActions = new PlayerActions();
-                    __instance.currentPlayer.data.playerActions.Device = InputDevice.Null;
-                }
-                __instance.currentlySelectedFace = 7; //lets players use the last face as their bot face
                 UnityEngine.Debug.Log("Finding FaceSelector");
                 Transform faceSelector = __instance.transform.GetChild(0);
                 UnityEngine.Debug.Log("Found FaceSelector. Finding Grid");
@@ -45,6 +38,7 @@ namespace RoundWithBot.Pacthes.RWF
                         Locked.gameObject.SetActive(true);
                     }
                 }
+
                 AccessTools.Method(typeof(CharacterSelectionInstance), "ReadyUp").Invoke(__instance, null);
                 return false;
             }
