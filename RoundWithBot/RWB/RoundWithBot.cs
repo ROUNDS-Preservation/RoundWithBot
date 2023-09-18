@@ -4,7 +4,9 @@ using RarityLib.Utils;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using UnboundLib;
 using UnityEngine;
 
 namespace RoundWithBot.RWB
@@ -12,7 +14,7 @@ namespace RoundWithBot.RWB
     public class RoundWithBot
     {
         public static List<int> botsId = new List<int>();
-        public static List<String> excludeCards = new List<String>();
+        public static List<CardInfo> excludeCards = new List<CardInfo>();
 
         private static bool Debug = true;
 
@@ -23,16 +25,24 @@ namespace RoundWithBot.RWB
                 UnityEngine.Debug.Log(message);
             }
         }
-
+        public static void AddExcludeCard(CardInfo excludeCard, bool log = true) {
+           if(excludeCard == null) {
+                Log("Card is null", log);
+                return;
+            }
+            excludeCard.categories = excludeCard.categories.AddItem(RoundWithBots.NoBot).ToArray();
+            excludeCards.Add(excludeCard);
+            Log("'" + excludeCard.cardName+ "' Have be added to the exclude cards", log);
+        }
         public static void AddExcludeCard(String excludeCardName, bool log = true)
         {
-            excludeCards.Add(excludeCardName.ToUpper());
-            Log("'" + excludeCardName + "' Have be added to the exclude cards", log);
+            CardInfo card = UnboundLib.Utils.CardManager.GetCardInfoWithName(excludeCardName);
+            AddExcludeCard(card,log);
         }
 
         public static bool isAExcludeCard(CardInfo card)
         {
-            if (excludeCards.Contains(card.cardName.ToUpper())) return true;
+            if (excludeCards.Contains(card)) return true;
             return false;
         }
 
@@ -57,49 +67,8 @@ namespace RoundWithBot.RWB
             Log("getting rarest cards...", log);
             List<GameObject> spawnedCards = GetSpawnCards();
 
-            float rarestRarityModifier = float.MaxValue; // Initialize with the highest possible value
-            List<GameObject> rarestCards = new List<GameObject>();
-            CardInfo lastCardInfo = null;
-            int index = 0;
-
-            foreach (var cardObject in spawnedCards)
-            {
-                CardInfo cardInfo = cardObject.GetComponent<CardInfo>();
-
-                if (cardInfo != null)
-                {
-                    Log("Checking is '" + cardInfo.cardName + "' more rare is last card.", log);
-                    float cardRarityModifier = RarityUtils.GetRarityData(cardInfo.rarity).relativeRarity;
-                    if (isAExcludeCard(cardInfo))
-                    {
-                        Log("'" + cardInfo.cardName + "' Is a exclude card. Skiping card", log);
-                        continue;
-                    }
-                    if (cardRarityModifier < rarestRarityModifier)
-                    {
-                        // Found a card with a higher rarity modifier, clear the list and update the rarest rarity modifier
-                        Log("'" + cardInfo.cardName + "' Is more rare then last card. clearing list.", log);
-                        rarestCards.Clear();
-                        rarestRarityModifier = cardRarityModifier;
-                    }
-                    else
-                    {
-                        Log("'" + cardInfo.cardName + "' Is not more rare then last card.", log);
-                    }
-
-                    if (cardRarityModifier == rarestRarityModifier)
-                    {
-                        // Found a card with the highest rarity modifier, add it to the list
-                        Log("Adding '" + cardInfo.cardName + "' to the list.", log);
-                        rarestCards.Add(cardObject);
-                    }
-                }
-                lastCardInfo = cardInfo;
-                index++;
-            }
-            int randomIndex = UnityEngine.Random.Range(0, spawnCards.Count);
-            if (rarestCards.Count == 0) rarestCards.Add(spawnCards[randomIndex].gameObject);
-            Log("Successfully get list of rarest cards.", log);
+            float rarestRarityModifier = spawnCards.Select(card => RarityUtils.GetRarityData(card.GetComponent<CardInfo>().rarity).relativeRarity).Min();
+            List<GameObject> rarestCards = spawnCards.Where(card => RarityUtils.GetRarityData(card.GetComponent<CardInfo>().rarity).relativeRarity == rarestRarityModifier).ToList();
             return rarestCards;
         }
 
@@ -107,36 +76,6 @@ namespace RoundWithBot.RWB
         {
             Log("Getting spawn cards", log);
             return (List<GameObject>)AccessTools.Field(typeof(CardChoice), "spawnedCards").GetValue(CardChoice.instance);
-        }
-
-        public static IEnumerator WaitForOneSpawnCards(bool log = true)
-        {
-            Log("Waiting for one spawn cards to spawn...", log);
-            List<GameObject> spawnedCards = GetSpawnCards();
-            do
-            {
-                spawnedCards = GetSpawnCards(false);
-                yield return null; // Wait for the next frame before checking again
-            }
-
-            while (spawnedCards.Count <= 1);
-            Log("One spawn cards spawn", log);
-            yield break;
-        }
-
-        public static IEnumerator WaitForSpawnCards(bool log = true)
-        {
-            Log("Waiting for all spawn cards to spawn...", log);
-            List<GameObject> spawnedCards = GetSpawnCards();
-            do
-            {
-                spawnedCards = GetSpawnCards(false);
-                yield return null; // Wait for the next frame before checking again
-            }
-
-            while (spawnedCards.Count != CardChoice.instance.transform.childCount);
-            Log("All spawn cards spawn", log);
-            yield break;
         }
 
         public static IEnumerator CycleThroughCards(float delay, List<GameObject> spawnedCards, bool log = true)
@@ -168,7 +107,7 @@ namespace RoundWithBot.RWB
 
         public static IEnumerator GoToCards(List<GameObject> rarestCards, List<GameObject> spawnedCards, float delay, bool log = true)
         {
-            int randomIndex = UnityEngine.Random.Range(0, rarestCards.Count);
+            int randomIndex = UnityEngine.Random.Range(0, rarestCards.Count-1);
             GameObject cardToPick = rarestCards[randomIndex];
             Log("Going to '" + cardToPick + "' card", log);
 
@@ -202,32 +141,15 @@ namespace RoundWithBot.RWB
 
         public static IEnumerator PickCard(List<GameObject> spawnCards)
         {
-            try
-            {
-                CardChoice.instance.Pick(spawnCards[int.Parse(AccessTools.Field(typeof(CardChoice), "currentlySelectedCard").GetValue(CardChoice.instance).ToString())], true);
-            }
-            catch (Exception err)
-            {
-                UnityEngine.Debug.Log(err);
-            }
-
-            UIHandler.instance.StopShowPicker();
-            CardChoiceVisuals.instance.Hide();
-
-            CardChoice.instance.IsPicking = false;
-
-            yield return new WaitForSeconds(0.25f); // Adjust timing as needed
-
-            CardChoice.instance.picks = 0;
-
-            CardChoice.instance.pickrID++;
-
+            CardChoice.instance.Pick(spawnCards[(int)CardChoice.instance.GetFieldValue("currentlySelectedCard")], true);
             yield break;
         }
 
         public static IEnumerator AiPickCard()
         {
-            SetBotsId();
+            yield return new WaitUntil(() => { return CardChoice.instance.IsPicking &&
+               ((List<GameObject>)CardChoice.instance.GetFieldValue("spawnedCards")).Count == ((Transform[])CardChoice.instance.GetFieldValue("children")).Count() && 
+               !((List<GameObject>)CardChoice.instance.GetFieldValue("spawnedCards")).Any(card => { return card == null; }); }); //wait untill all the cards are generated
             for (int i = 0; i < PlayerManager.instance.players.Count; i++)
             {
                 Player player = PlayerManager.instance.players[i];
@@ -235,15 +157,9 @@ namespace RoundWithBot.RWB
                 if (player.GetComponent<PlayerAPI>().enabled && botsId.Contains(CardChoice.instance.pickrID))
                 {
                     UnityEngine.Debug.Log("AI picking card");
-
-                    yield return WaitForOneSpawnCards();
                     List<GameObject> spawnCards = GetSpawnCards();
                     spawnCards[0].GetComponent<CardInfo>().RPCA_ChangeSelected(true);
-
-                    yield return WaitForSpawnCards();
                     yield return new WaitForSeconds(0.25f);
-
-                    spawnCards = GetSpawnCards();
 
                     yield return CycleThroughCards(0.30f, spawnCards);
 
@@ -251,8 +167,9 @@ namespace RoundWithBot.RWB
 
                     List<GameObject> rarestCards = GetRarestCards(spawnCards);
                     yield return GoToCards(rarestCards, spawnCards, 0.20f);
-                    yield return new WaitForSeconds(3f);
+                    yield return new WaitForSeconds(1f);
                     yield return PickCard(spawnCards);
+                    break;
                 }
             }
             yield break;
