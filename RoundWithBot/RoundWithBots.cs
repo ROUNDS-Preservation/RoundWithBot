@@ -5,8 +5,11 @@ using System.Collections;
 using System.Collections.Generic;
 using System;
 using static CardInfo;
+using PickNCards;
+using RarityLib.Utils;
+using RoundWithBot.RWB;
 
-namespace SimplyCards
+namespace RoundWithBot
 {
     // These are the mods required for our mod to work
     [BepInDependency("com.willis.rounds.unbound", BepInDependency.DependencyFlags.HardDependency)]
@@ -24,7 +27,6 @@ namespace SimplyCards
         public const string Version = "1.0.0"; // What version are we on (major.minor.patch)?
         public const string ModInitials = "RWB";
 
-        
         public static RoundWithBots instance { get; private set; }
         private bool isPicking = false;
         private List<int> botPlayer = new List<int>();
@@ -37,6 +39,7 @@ namespace SimplyCards
         void Start()
         {
             instance = this;
+            RWB.RoundWithBot.AddExcludeCard("Remote");
         }
 
         private IEnumerator ChooseCardWithDelay()
@@ -44,10 +47,19 @@ namespace SimplyCards
             yield return new WaitForSeconds(0.2f);
             List<GameObject> spawnedCards = (List<GameObject>)AccessTools.Field(typeof(CardChoice), "spawnedCards").GetValue(CardChoice.instance);
             spawnedCards[0].GetComponent<CardInfo>().RPCA_ChangeSelected(true);
-            yield return new WaitForSeconds(DrawNCards.DrawNCards.NumDraws / 5);
+
+            do
+            {
+                spawnedCards = (List<GameObject>)AccessTools.Field(typeof(CardChoice), "spawnedCards").GetValue(CardChoice.instance);
+                yield return null; // Wait for the next frame before checking again
+            }
+
+            while (spawnedCards.Count != CardChoice.instance.transform.childCount);
+
+
+            yield return new WaitForSeconds(0.25f);
 
             CardChoice cardChoice = CardChoice.instance;
-            spawnedCards = (List<GameObject>)AccessTools.Field(typeof(CardChoice), "spawnedCards").GetValue(CardChoice.instance);
 
             for (int i = 0; i < PlayerManager.instance.players.Count; i++)
             {
@@ -62,35 +74,34 @@ namespace SimplyCards
                         AccessTools.Field(typeof(CardChoice), "pickerType").SetValue(CardChoice.instance, PickerType.Team);
                     }
 
-
-
-                    Rarity rarestRarity = Rarity.Common; // Initialize with the lowest rarity
+                    float rarestRarityModifier = float.MaxValue; // Initialize with the highest possible value
                     List<GameObject> rarestCards = new List<GameObject>();
                     CardInfo lastCardInfo = null;
                     int index = 0;
+
                     foreach (var cardObject in spawnedCards)
                     {
                         CardInfo cardInfo = cardObject.GetComponent<CardInfo>();
 
                         if (cardInfo != null)
                         {
-                            Rarity cardRarity = cardInfo.rarity;
-                            if (lastCardInfo  != null)
+                            float cardRarityModifier = RarityUtils.GetRarityData(cardInfo.rarity).relativeRarity;
+                            if (lastCardInfo != null)
                             {
                                 lastCardInfo.RPCA_ChangeSelected(false);
                             }
                             cardInfo.RPCA_ChangeSelected(true);
                             AccessTools.Field(typeof(CardChoice), "currentlySelectedCard").SetValue(cardChoice, index);
-                            if (cardRarity > rarestRarity)
+                            if (cardRarityModifier < rarestRarityModifier)
                             {
-                                // Found a card with a higher rarity, clear the list and update the rarest rarity
+                                // Found a card with a higher rarity modifier, clear the list and update the rarest rarity modifier
                                 rarestCards.Clear();
-                                rarestRarity = cardRarity;
+                                rarestRarityModifier = cardRarityModifier;
                             }
 
-                            if (cardRarity == rarestRarity)
+                            if (cardRarityModifier == rarestRarityModifier)
                             {
-                                // Found a card with the rarest rarity, add it to the list
+                                // Found a card with the highest rarity modifier, add it to the list
                                 rarestCards.Add(cardObject);
                             }
                         }
@@ -98,7 +109,9 @@ namespace SimplyCards
                         index++;
                         yield return new WaitForSeconds(0.35f);
                     }
-                    
+
+
+
 
                     int randomIndex = UnityEngine.Random.Range(0, rarestCards.Count);
                     GameObject cardToPick = rarestCards[randomIndex];
@@ -172,8 +185,8 @@ namespace SimplyCards
             if (CardChoice.instance != null && CardChoice.instance.IsPicking == true && isPicking == false)
             {
                 isPicking = true;
-
-                StartCoroutine(ChooseCardWithDelay());
+                
+                StartCoroutine(RWB.RoundWithBot.AiPickCard());
             }
             else if (CardChoice.instance != null && CardChoice.instance.IsPicking == false && isPicking == true)
             {

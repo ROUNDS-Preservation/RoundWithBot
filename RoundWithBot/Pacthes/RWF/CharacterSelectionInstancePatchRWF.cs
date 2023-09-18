@@ -1,7 +1,7 @@
 ﻿using HarmonyLib;
 using UnityEngine;
 
-namespace SimplyCards.Pacthes.RWF
+namespace RoundWithBot.Pacthes.RWF
 {
     [HarmonyPatch(typeof(CharacterSelectionInstance))]
     internal class CharacterSelectionInstancePatch

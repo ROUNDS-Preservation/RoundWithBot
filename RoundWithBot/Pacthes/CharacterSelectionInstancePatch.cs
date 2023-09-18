@@ -1,6 +1,6 @@
 ﻿using HarmonyLib;
 
-namespace SimplyCards.Pacthes
+namespace RoundWithBot.Pacthes
 {
     [HarmonyPatch(typeof(CharacterSelectionInstance))]
     internal class CharacterSelectionInstancePatch

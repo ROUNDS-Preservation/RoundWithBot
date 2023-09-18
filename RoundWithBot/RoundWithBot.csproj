@@ -41,6 +41,9 @@
     <Reference Include="PickNCards">
       <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\yh4r\BepInEx\plugins\Pykess-Pick_N_Cards\PickNCards.dll</HintPath>
     </Reference>
+    <Reference Include="RarityLib">
+      <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\yh4r\BepInEx\plugins\Root-RarityLib\RarityLib.dll</HintPath>
+    </Reference>
     <Reference Include="RoundsWithFriends">
       <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\yh4r\BepInEx\plugins\olavim-RoundsWithFriends\RoundsWithFriends.dll</HintPath>
     </Reference>
