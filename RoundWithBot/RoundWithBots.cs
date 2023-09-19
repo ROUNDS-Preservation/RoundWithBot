@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using ModdingUtils;
 using ModdingUtils.Extensions;
 using TMPro;
+using RWF.UI;
 
 namespace RoundWithBot
 {
@@ -22,7 +23,7 @@ namespace RoundWithBot
     {
         private const string ModId = "com.aalund13.rounds.Round_With_Bot";
         private const string ModName = "Round With Bot";
-        public const string Version = "1.0.0"; // What version are we on (major.minor.patch)?
+        public const string Version = "2.0.0"; // What version are we on (major.minor.patch)?
         public const string ModInitials = "RWB";
         public static CardCategory NoBot;
 
@@ -39,10 +40,12 @@ namespace RoundWithBot
         {
             instance = this;
             NoBot = CardChoiceSpawnUniqueCardPatch.CustomCategories.CustomCardCategories.instance.CardCategory("not-for-bots");
-            RWB.RoundWithBot.AddExcludeCard("Remote");
+            RWB.RoundWithBot.AddExcludeCard("REMOTE");
 
             UnboundLib.GameModes.GameModeManager.AddHook(UnboundLib.GameModes.GameModeHooks.HookPlayerPickStart,(_)=> BotPicks());
             UnboundLib.GameModes.GameModeManager.AddHook(UnboundLib.GameModes.GameModeHooks.HookGameStart,(_)=> RegesterBots());
+
+            
         }
 
         IEnumerator RegesterBots() {

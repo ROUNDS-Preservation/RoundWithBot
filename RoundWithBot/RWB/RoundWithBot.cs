@@ -114,7 +114,7 @@ namespace RoundWithBot.RWB
             // Set currentlySelectedCard to the index of the selected card within the spawnedCards list
             int selectedCardIndex = spawnedCards.IndexOf(cardToPick);
             int handIndex = int.Parse(AccessTools.Field(typeof(CardChoice), "currentlySelectedCard").GetValue(CardChoice.instance).ToString());
-
+            
             while (handIndex != selectedCardIndex)
             {
                 CardInfo cardInfo = spawnedCards[handIndex].GetComponent<CardInfo>();
