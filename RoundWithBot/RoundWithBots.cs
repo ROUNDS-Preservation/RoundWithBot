@@ -40,7 +40,7 @@ namespace RoundWithBot
         {
             instance = this;
             NoBot = CardChoiceSpawnUniqueCardPatch.CustomCategories.CustomCardCategories.instance.CardCategory("not-for-bots");
-            RWB.RoundWithBot.AddExcludeCard("REMOTE");
+            RWB.RoundWithBot.AddExcludeCard("Remote");
 
             UnboundLib.GameModes.GameModeManager.AddHook(UnboundLib.GameModes.GameModeHooks.HookPlayerPickStart,(_)=> BotPicks());
             UnboundLib.GameModes.GameModeManager.AddHook(UnboundLib.GameModes.GameModeHooks.HookGameStart,(_)=> RegesterBots());

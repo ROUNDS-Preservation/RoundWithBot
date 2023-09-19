@@ -16,7 +16,7 @@ namespace RoundWithBot.RWB
         public static List<int> botsId = new List<int>();
         public static List<CardInfo> excludeCards = new List<CardInfo>();
 
-        private static bool Debug = true;
+        private static bool Debug = false;
 
         private static void Log(string message, bool log = true)
         {
