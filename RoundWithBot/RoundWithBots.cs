@@ -26,7 +26,7 @@ namespace RoundWithBot
     {
         private const string ModId = "com.aalund13.rounds.Round_With_Bot";
         private const string ModName = "Round With Bot";
-        public const string Version = "2.0.0"; // What version are we on (major.minor.patch)?
+        public const string Version = "2.1.0"; // What version are we on (major.minor.patch)?
         public const string ModInitials = "RWB";
         public static CardCategory NoBot;
 
