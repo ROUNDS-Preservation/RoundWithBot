@@ -18,7 +18,14 @@ namespace RoundWithBot.Pacthes.RWF
         [HarmonyBefore("io.olavim.rounds.rwf")]
         private static void Postfix(CharacterSelectionInstance __instance)
         {
-            __instance.currentlySelectedFace = UnityEngine.Random.Range(0, 7);
+            if (ConfigHandler.RandomizationFace.Value)
+            {
+                __instance.currentlySelectedFace = UnityEngine.Random.Range(0, 7);
+            }
+            else
+            {
+                __instance.currentlySelectedFace = ConfigHandler.SelectedFace.Value;
+            }
         }
 
         [HarmonyPatch("Update")]

@@ -153,9 +153,9 @@ namespace RoundWithBot.RWB
             for (int i = 0; i < PlayerManager.instance.players.Count; i++)
             {
                 Player player = PlayerManager.instance.players[i];
-
                 if (player.GetComponent<PlayerAPI>().enabled && botsId.Contains(CardChoice.instance.pickrID))
                 {
+
                     UnityEngine.Debug.Log("AI picking card");
                     List<GameObject> spawnCards = GetSpawnCards();
                     spawnCards[0].GetComponent<CardInfo>().RPCA_ChangeSelected(true);

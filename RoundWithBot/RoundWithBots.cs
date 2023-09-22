@@ -6,6 +6,9 @@ using ModdingUtils;
 using ModdingUtils.Extensions;
 using TMPro;
 using RWF.UI;
+using Photon.Realtime;
+using UnityEngine;
+using BepInEx.Configuration;
 
 namespace RoundWithBot
 {
@@ -30,6 +33,9 @@ namespace RoundWithBot
         public static RoundWithBots instance { get; private set; }
         public bool isPicking = false;
         private List<int> botPlayer = new List<int>();
+
+
+
         void Awake()
         {
             // Use this to call any harmony patch files your mod may have
@@ -44,8 +50,7 @@ namespace RoundWithBot
 
             UnboundLib.GameModes.GameModeManager.AddHook(UnboundLib.GameModes.GameModeHooks.HookPlayerPickStart,(_)=> BotPicks());
             UnboundLib.GameModes.GameModeManager.AddHook(UnboundLib.GameModes.GameModeHooks.HookGameStart,(_)=> RegesterBots());
-
-            
+            ConfigHandler.RegesterMenu(ModName, Config);
         }
 
         IEnumerator RegesterBots() {
@@ -63,6 +68,7 @@ namespace RoundWithBot
         }
         IEnumerator BotPicks() {
             StartCoroutine(RWB.RoundWithBot.AiPickCard());
+            
             yield break;
         }
     }
