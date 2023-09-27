@@ -26,7 +26,7 @@ namespace RoundWithBot
     {
         private const string ModId = "com.aalund13.rounds.Round_With_Bot";
         private const string ModName = "Round With Bot";
-        public const string Version = "2.1.0"; // What version are we on (major.minor.patch)?
+        public const string Version = "2.2.0"; // What version are we on (major.minor.patch)?
         public const string ModInitials = "RWB";
         public static CardCategory NoBot;
 
@@ -45,14 +45,17 @@ namespace RoundWithBot
         void Start()
         {
             instance = this;
+
+            ConfigHandler.RegesterMenu(ModName, Config);
+
             NoBot = CardChoiceSpawnUniqueCardPatch.CustomCategories.CustomCardCategories.instance.CardCategory("not-for-bots");
             RWB.RoundWithBot.AddExcludeCard("Remote");
-
+            
             UnboundLib.GameModes.GameModeManager.AddHook(UnboundLib.GameModes.GameModeHooks.HookPlayerPickStart,(_)=> BotPicks());
             UnboundLib.GameModes.GameModeManager.AddHook(UnboundLib.GameModes.GameModeHooks.HookGameStart,(_)=> RegesterBots());
-            ConfigHandler.RegesterMenu(ModName, Config);
+            
         }
-
+        
         IEnumerator RegesterBots() {
             botPlayer.Clear();
             for(int i = 0; i < PlayerManager.instance.players.Count; i++) {

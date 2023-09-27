@@ -16,11 +16,9 @@ namespace RoundWithBot.RWB
         public static List<int> botsId = new List<int>();
         public static List<CardInfo> excludeCards = new List<CardInfo>();
 
-        private static bool Debug = false;
-
         private static void Log(string message, bool log = true)
         {
-            if (Debug && log)
+            if (ConfigHandler.DebugMode.Value && log)
             {
                 UnityEngine.Debug.Log(message);
             }
@@ -156,7 +154,7 @@ namespace RoundWithBot.RWB
                 if (player.GetComponent<PlayerAPI>().enabled && botsId.Contains(CardChoice.instance.pickrID))
                 {
 
-                    UnityEngine.Debug.Log("AI picking card");
+                    Log("AI picking card");
                     List<GameObject> spawnCards = GetSpawnCards();
                     spawnCards[0].GetComponent<CardInfo>().RPCA_ChangeSelected(true);
                     yield return new WaitForSeconds(0.25f);

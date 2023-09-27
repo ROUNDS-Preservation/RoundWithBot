@@ -15,12 +15,14 @@ namespace RoundWithBot
     {
         public static ConfigEntry<bool> RandomizationFace;
         public static ConfigEntry<int> SelectedFace;
+        public static ConfigEntry<bool> DebugMode;
 
         public static void RegesterMenu(string modName, ConfigFile config)
         {
             Unbound.RegisterMenu(modName, () => { }, NewGui, null, false);
             RandomizationFace = config.Bind(modName, "RandomizationFace", true, "Enable randomization of bots' faces.");
             SelectedFace = config.Bind(modName, "SelectedFace", 0, "Set the index for bots to select a specific face.");
+            DebugMode = config.Bind(modName, "DebugMode", false, "Enabled or disabled Debug Mode");
         }
 
         public static void addBlank(GameObject menu)
@@ -45,6 +47,12 @@ namespace RoundWithBot
                 SelectedFace.Value = (int)Math.Round(val);
             }
             MenuHandler.CreateSlider("Selected Face", menu, 30, 0, 7, SelectedFace.Value, SelectedFaceChanged, out UnityEngine.UI.Slider _, true);
+            addBlank(menu);
+            void DebugModeChanged(bool val)
+            {
+                DebugMode.Value = val;
+            }
+            MenuHandler.CreateToggle(DebugMode.Value, "<#c41010> Debug Mode", menu, DebugModeChanged, 30);
         }
     }
 }

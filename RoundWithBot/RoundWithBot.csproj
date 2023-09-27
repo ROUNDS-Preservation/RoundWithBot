@@ -26,6 +26,9 @@
     <Reference Include="InControl">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\ROUNDS\Rounds_Data\Managed\InControl.dll</HintPath>
     </Reference>
+    <Reference Include="Infoholic">
+      <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\yh4r\BepInEx\plugins\Penial-Infoholic\Infoholic.dll</HintPath>
+    </Reference>
     <Reference Include="ModdingUtils">
       <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\profiles\yh4r\BepInEx\plugins\Pykess-ModdingUtils\ModdingUtils.dll</HintPath>
     </Reference>
