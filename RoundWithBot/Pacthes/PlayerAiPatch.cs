@@ -6,11 +6,11 @@ using UnityEngine;
 
 namespace RoundWithBot.Pacthes
 {
-    [HarmonyPatch(typeof(PlayerAI))]
+    [HarmonyPatch(typeof(PlayerAIPhilip))]
     internal class PlayerAiPatch
     {
         [HarmonyPatch("Update")]
-        private static void Postfix(PlayerAI __instance)
+        private static void Postfix(PlayerAIPhilip __instance)
         {
             // Find an instance of OutOfBoundsHandler in the scene
             OutOfBoundsHandler outOfBoundsHandlerInstance = GameObject.FindObjectOfType<OutOfBoundsHandler>();
@@ -21,9 +21,9 @@ namespace RoundWithBot.Pacthes
                 UnityEngine.Debug.LogError("OutOfBoundsHandler not found in the scene.");
                 return;
             }
-
+            
             MethodInfo getPointMethod = AccessTools.Method(typeof(OutOfBoundsHandler), "GetPoint");
-            GeneralInput input = (GeneralInput)AccessTools.Field(typeof(PlayerAI), "input").GetValue(__instance);
+            GeneralInput input = (GeneralInput)AccessTools.Field(typeof(PlayerAPI), "input").GetValue(__instance.GetComponentInParent<PlayerAPI>());
 
             // Invoke the GetPoint method on the outOfBoundsHandlerInstance
             Vector3 bound = (Vector3)getPointMethod.Invoke(outOfBoundsHandlerInstance, new object[] { __instance.gameObject.transform.position });
@@ -40,7 +40,7 @@ namespace RoundWithBot.Pacthes
 
             if (isNearBoundaries)
             {
-                UnityEngine.Debug.Log("Bot Is Near Boundaries");
+                RWB.RoundWithBot.Log("Bot Is Near Boundaries");
                 input.shieldWasPressed = true;
             }
         }

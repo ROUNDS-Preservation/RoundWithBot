@@ -18,13 +18,23 @@ namespace RoundWithBot.Pacthes.RWF
         [HarmonyBefore("io.olavim.rounds.rwf")]
         private static void Postfix(CharacterSelectionInstance __instance)
         {
-            if (ConfigHandler.RandomizationFace.Value)
+            if (__instance.currentPlayer.GetComponent<PlayerAPI>().enabled)
             {
-                __instance.currentlySelectedFace = UnityEngine.Random.Range(0, 7);
-            }
-            else
-            {
-                __instance.currentlySelectedFace = ConfigHandler.SelectedFace.Value;
+                PlayerAI playerAI = __instance.currentPlayer.GetComponentInChildren<PlayerAI>();
+                if (playerAI != null)
+                {
+                    playerAI.gameObject.AddComponent<PlayerAIPhilip>();
+                    Object.Destroy(playerAI);
+                }
+
+                if (ConfigHandler.RandomizationFace.Value)
+                {
+                    __instance.currentlySelectedFace = UnityEngine.Random.Range(0, 7);
+                }
+                else
+                {
+                    __instance.currentlySelectedFace = ConfigHandler.SelectedFace.Value;
+                }
             }
         }
 
