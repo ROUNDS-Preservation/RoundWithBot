@@ -1,0 +1,2492 @@
+﻿UnityExplorer 4.8.2 initializing...
+[UniverseLib] UniverseLib 1.4.3 initializing...
+[UniverseLib] Finished UniverseLib initial setup.
+[Unity] DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+[Unity] [RWB][Card] Random Stat has been setup.
+[UniverseLib] Initialized Legacy Input support
+[UniverseLib] Loaded modern bundle for Unity 2018.4.34f1
+[UniverseLib] UniverseLib 1.4.3 initialized.
+Creating UI...
+
+UnityExplorer 4.8.2 (Mono) initialized.
+[Unity] DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+[Unity] CMR=>Class Setup Complete
+[Unity] ArgumentNullException: key
+
+[Unity] ArgumentNullException: key
+
+[Unity] ArgumentNullException: key
+
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] Current map: Castle_M
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] Card __WWC__Immovable Object's rarity modifier ajusted by +0.25 and *0
+[Unity] Card __WWC__Unstoppable Force's rarity modifier ajusted by +0.25 and *0
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 0 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 0 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 0 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 0 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 0 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] ArgumentNullException: key
+[Unity] DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+[Unity] There can only be one Sonigon.SoundManager instance per scene.
+[Unity] Can't change CrcCheckEnabled while being connected. CrcCheckEnabled stays True
+
+
+
+
+[Unity] DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Unity] JoinRandomRoom failed. In offline mode you still have to leave a room to enter another.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Unity] Creating Player
+[Unity] Setup Complete
+[Unity] Registering Players
+[Unity] Player Registered
+[Unity] OFFLINE MODE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Unity] Creating Player
+[Unity] Setup Complete
+[Unity] Registering Players
+[Unity] Player Registered
+
+[Unity] OFFLINE MODE
+[Unity] ArgumentNullException: key
+
+
+
+
+
+
+
+[Unity] ArgumentNullException: key
+
+
+
+[Unity] ArgumentNullException: key
+
+
+
+[Unity] ArgumentNullException: key
+
+
+[Unity] Current map: Phys_Structure_M
+[Unity] ArgumentNullException: key
+
+
+[Unity] Card __WWC__Immovable Object's rarity modifier ajusted by +0.25 and *0
+[Unity] Card __WWC__Unstoppable Force's rarity modifier ajusted by +0.25 and *0
+[Unity] ArgumentNullException: key
+
+
+
+
+
+
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 0 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+
+
+
+
+
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 0 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+
+
+
+
+
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 0 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+
+
+
+
+
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 0 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+
+
+
+
+
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 0 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 0 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 0 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+
+
+
+
+[Unity] ArgumentNullException: key
+
+
+
+[Unity] ArgumentNullException: key
+
+
+
+[Unity] ArgumentNullException: key
+
+
+
+
+
+[Unity] Card __WWC__Immovable Object's rarity modifier ajusted by +0.25 and *0
+[Unity] Card __WWC__Unstoppable Force's rarity modifier ajusted by +0.25 and *0
+[Unity] ArgumentNullException: key
+
+
+
+
+
+
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 1 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+
+
+
+
+
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 1 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+
+
+
+
+
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 1 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+
+
+
+
+
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 1 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+
+
+
+
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Air Resistance] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Ammo Regulations] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Anime Physics] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Bleeding Wounds] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Counterfeit Ammo] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Crooked Legs] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Damnation] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Defective Trigger] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Driven to Earth] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Easy Target] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Eroding Darkness] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fragile Body] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Fumbled Mags] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Group Winning] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Heavy Shields] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lead Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Lucky Clover] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misaligned Sights] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Misfire] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Missed Opportunities] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Momentary Confusion] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Needle Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Pasta Shells] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Poisonous Trauma] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Rabbits Foot] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Seeping Corruption] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Severed Fate] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Shaky Bullets] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Slow Reflexes] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Take A Number] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Tired Body] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Uncomfortable Defense] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Weak Mind] Player 1 did not have a value set, defaulting to false.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Checking if player 1 is allowed to draw curses.
+[Unity] [WWM][CanDrawCursesCondition()][Wild Shots] Player 1 did not have a value set, defaulting to false.
+[Unity] ArgumentNullException: key
+
+
+
+
+
+

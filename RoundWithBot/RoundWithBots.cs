@@ -14,17 +14,17 @@ namespace RoundWithBot
 {
     // These are the mods required for our mod to work
     [BepInDependency("com.willis.rounds.unbound", BepInDependency.DependencyFlags.HardDependency)]
-    [BepInDependency("pykess.rounds.plugins.pickncards", BepInDependency.DependencyFlags.HardDependency)]
     [BepInDependency("pykess.rounds.plugins.moddingutils", BepInDependency.DependencyFlags.HardDependency)]
+    [BepInDependency("root.rarity.lib", BepInDependency.DependencyFlags.HardDependency)]
     [BepInDependency("pykess.rounds.plugins.cardchoicespawnuniquecardpatch", BepInDependency.DependencyFlags.HardDependency)]
-    [BepInDependency("io.olavim.rounds.rwf", BepInDependency.DependencyFlags.HardDependency)]
+    //[BepInDependency("io.olavim.rounds.rwf", BepInDependency.DependencyFlags.HardDependency)]
     // Declares our mod to Bepin
     [BepInPlugin(ModId, ModName, Version)]
     // The game our mod is associated with
     [BepInProcess("Rounds.exe")]
     public class RoundWithBots : BaseUnityPlugin
     {
-        private const string ModId = "com.aalund13.rounds.Round_With_Bot";
+        private const string ModId = "com.aalund13.rounds.round_with_bot";
         private const string ModName = "Round With Bot";
         public const string Version = "2.3.0"; // What version are we on (major.minor.patch)?
         public const string ModInitials = "RWB";
@@ -34,18 +34,21 @@ namespace RoundWithBot
         public bool isPicking = false;
         private List<int> botPlayer = new List<int>();
 
-
+        
 
         void Awake()
         {
             // Use this to call any harmony patch files your mod may have
-            var harmony = new Harmony(ModId);
-            harmony.PatchAll();
+            try
+            {
+                var harmony = new Harmony(ModId);
+                harmony.PatchAll();
+            } catch { }
         }
         void Start()
         {
             instance = this;
-
+            
             ConfigHandler.RegesterMenu(ModName, Config);
 
             NoBot = CardChoiceSpawnUniqueCardPatch.CustomCategories.CustomCardCategories.instance.CardCategory("not-for-bots");

@@ -1,5 +1,6 @@
 ﻿using HarmonyLib;
 using ModdingUtils.Utils;
+using Photon.Realtime;
 using RarityLib.Utils;
 using System;
 using System.Collections;
@@ -30,7 +31,7 @@ namespace RoundWithBot.RWB
             }
             excludeCard.categories = excludeCard.categories.AddItem(RoundWithBots.NoBot).ToArray();
             excludeCards.Add(excludeCard);
-            Log("'" + excludeCard.cardName+ "' Have be added to the exclude cards", log);
+            Log("'" + excludeCard.CardName+ "' Have be added to the exclude cards", log);
         }
         public static void AddExcludeCard(String excludeCardName, bool log = true)
         {
@@ -41,6 +42,7 @@ namespace RoundWithBot.RWB
         public static bool isAExcludeCard(CardInfo card)
         {
             if (excludeCards.Contains(card)) return true;
+            if (card.blacklistedCategories.Contains(RoundWithBots.NoBot)) return true;
             return false;
         }
 
@@ -87,7 +89,7 @@ namespace RoundWithBot.RWB
             {
                 CardInfo cardInfo = cardObject.GetComponent<CardInfo>();
 
-                Log("Cycling through '" + cardInfo.cardName + "' card", log);
+                Log("Cycling through '" + cardInfo.CardName + "' card", log);
                 if (lastCardInfo != null)
                 {
                     lastCardInfo.RPCA_ChangeSelected(false);
